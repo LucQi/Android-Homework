@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_verifycode" type="id" />
+    <item name="et_password" type="id" />
+    <item name="btn_forget" type="id" />
+    <item name="rb_verifycode" type="id" />
+    <item name="rb_password" type="id" />
+    <item name="ck_remember" type="id" />
+    <item name="tv_password" type="id" />
+    <item name="et_phone" type="id" />
+    <item name="rg_login" type="id" />
+    <item name="btn_signup" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="sp_type" type="id" />
+    <item name="tv_total_price" type="id" />
+    <item name="gp_content" type="id" />
+    <item name="btn_shopping_channel" type="id" />
+    <item name="gp_empty" type="id" />
+    <item name="ll_cart" type="id" />
+    <item name="btn_settle" type="id" />
+    <item name="iv_cart" type="id" />
+    <item name="et_name" type="id" />
+    <item name="et_weight" type="id" />
+    <item name="et_height" type="id" />
+    <item name="et_pwd" type="id" />
+    <item name="et_age" type="id" />
+    <item name="et_repwd" type="id" />
+    <item name="btn_save" type="id" />
+    <item name="sp_married" type="id" />
+    <item name="sv_content" type="id" />
+    <item name="tv_photo" type="id" />
+    <item name="tv_num" type="id" />
+    <item name="lv_cart" type="id" />
+    <item name="ll_account" type="id" />
+    <item name="tv_total" type="id" />
+</resources>
